@@ -1,4 +1,4 @@
-# SQL-Portfolio-Project
+# Pizza-Sales-SQL-Portfolio-Project
 
 📌 Project Overview
 
