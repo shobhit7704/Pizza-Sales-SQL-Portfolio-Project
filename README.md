@@ -6,7 +6,7 @@ This project is built around a pizza sales dataset to explore different SQL conc
 
 It helped me strengthen my SQL skills while also learning how data can drive decisions in the food & beverage industry.
 
-🗂️ Dataset Structure
+📂 Dataset Structure
 
 The database is structured into the following main tables:
 
